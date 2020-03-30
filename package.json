@@ -1,6 +1,6 @@
 {
 	"name": "to-pairs",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Convert an object into an array.",
 	"main": "index.js",
 	"scripts": {
