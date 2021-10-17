@@ -1,4 +1,4 @@
-# to-pairs [![Build Status](https://travis-ci.com/jonkemp/to-pairs.svg?branch=master)](https://travis-ci.com/jonkemp/to-pairs)
+# to-pairs ![Build Status](https://github.com/jonkemp/to-pairs/actions/workflows/main.yml/badge.svg?branch=master)
 
 > Convert an object into an array.
 
