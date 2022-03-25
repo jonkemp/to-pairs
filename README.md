@@ -16,7 +16,7 @@ $ npm install to-pairs
 Or [unpkg](https://unpkg.com/to-pairs/)
 
 ```
-<script src="https://unpkg.com/to-pairs@1.0.0/umd/index.js" />
+<script src="https://unpkg.com/to-pairs@1.0.1/umd/index.js" />
 ```
 
 Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/zYGeNrb).
